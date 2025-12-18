@@ -29,7 +29,7 @@ Este proyecto es una herramienta de análisis financiero de nivel institucional 
 
 2.  **Instalar dependencias:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r MLLibraries.txt
     ```
 
 3.  **Ejecutar la aplicación:**
@@ -38,4 +38,4 @@ Este proyecto es una herramienta de análisis financiero de nivel institucional 
     ```
 
 ---
-Desarrollado por [Tu Nombre]
+Desarrollado por Andrés Míguez Rodríguez
